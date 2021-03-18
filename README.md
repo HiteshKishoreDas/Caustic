@@ -6,3 +6,5 @@ Shapes available:
 * Circular
 * Parabolic
 * Hyperbolic
+
+This is included in the website repository.
